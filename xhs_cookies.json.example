@@ -1,0 +1,18 @@
+[
+  {
+    "domain": ".xiaohongshu.com",
+    "name": "sessionid",
+    "value": "your_session_id_here",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true
+  },
+  {
+    "domain": ".xiaohongshu.com",
+    "name": "web_session",
+    "value": "your_web_session_here",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true
+  }
+]
